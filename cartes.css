@@ -1,0 +1,33 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.search_data {
+    border-radius: 20px;
+}
+
+
+.intro ul {
+    display: flex;
+    flex-direction: row;
+}
+#add_person {
+    width: 100px;
+    height: 100px;
+}
+
+.resultat {
+
+margin: 67px;
+}
+
+.signature {
+    font-size: 2px;
+}
+
+
